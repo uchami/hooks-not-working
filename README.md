@@ -1,6 +1,6 @@
 # hooks-not-working
 
-React repo for ticket: https://stackoverflow.com/posts/57455200/
+React repo for ticket: https://stackoverflow.com/questions/57455200/cant-use-hooks-with-my-react-component-library-invariant-violation-invalid-hoo
 
 I've been trying to create my own Component Library for the past few weeks, everything is going smooth except from the fact that I can't get hooks to work.
 
@@ -34,5 +34,7 @@ The code where I'm trying to use Hooks is:
 
 
 When I build `yarn webpack --mode development` it throws **'require is not defined'**.
+
+
 
 
