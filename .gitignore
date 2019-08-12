@@ -1,0 +1,7 @@
+node_modules/
+.idea
+*.log
+temp
+.eslintcache
+.docz
+*.psd
